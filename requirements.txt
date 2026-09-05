@@ -1,0 +1,12 @@
+# MyCoder 依赖（版本为开发环境实际验证过的版本）
+openai>=3.8.0
+rich>=15.0.0
+prompt-toolkit>=3.0.53
+PyYAML>=6.0.3
+openpyxl>=3.1.5
+fastapi>=0.141.1
+uvicorn>=0.52.4
+httpx>=0.28.1
+pydantic>=2.13.5
+requests>=2.32
+faiss-cpu>=1.15
