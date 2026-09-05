@@ -2,7 +2,6 @@
 
 仿制并学习 Claude Code 的终端 AI 编程助手。基于国产大模型（DeepSeek / MiniMax），通过 XML 工具协议驱动 LLM 与本地文件系统交互，具备斜杠命令、三层记忆系统、A2A 多智能体验证等能力。
 
-> 本项目基于开源项目 MyClaude 改造而来（原仓库：<https://github.com/jack213333/MyClaude>），遵循原项目的 LICENSE 协议，在此向原作者致谢。
 
 ## 功能特性
 
